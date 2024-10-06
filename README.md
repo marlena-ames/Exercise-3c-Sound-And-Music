@@ -8,10 +8,13 @@ The second exercise adding "juicy" features to a simple brick-breaker game.
 
 Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
 
-
 ## Implementation
 
 Built using Unity 2022.3.45f
+
+Sound effects created in ChipTone
+
+Music ["Retro Electronic" by Lowtone Music](https://freemusicarchive.org/music/lowtone-music/single/retro-electronic/) via the free music archive 
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -22,7 +25,7 @@ Built using Unity 2022.3.45f
 
 ## Future Development
 
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
+Adding a face, Shaders, Powerups, etc.
 
 ## Created by 
 
